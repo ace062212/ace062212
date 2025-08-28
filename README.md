@@ -57,15 +57,15 @@
 
 ---
 
-## 🔥 2024 Featured Projects
+## 🚀 Projects by Year
 
-### 🥇 **Award-Winning Projects**
+### 🏆 **2023 Projects - AI & 머신러닝 도전의 시작**
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-#### 🏆 **지역사회 문제해결 공모전 동상**
+#### 🥉 **지역사회 문제해결 공모전 동상**
 **대전 시내버스 수요 예측 시스템**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -77,27 +77,6 @@
 **[📂 프로젝트 보기](https://github.com/ace062212/Daejeon-Public-Transport-Demand-Prediction.git)**
 
 </td>
-<td width="50%">
-
-#### 🥈 **소프트웨어 인재육성 캠프 은상**
-**라즈베리파이 졸음 감지 시스템**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi)
-
-*하드웨어와 소프트웨어를 결합한 실용적인 안전 시스템*
-
-**[📂 프로젝트 보기](https://github.com/ace062212/DrowsinessDetection.git)**
-
-</td>
-</tr>
-</table>
-
-### 🎯 **Core Projects**
-
-<table>
-<tr>
 <td width="33%">
 
 #### 🔍 **Criminal Detection System**
@@ -125,7 +104,28 @@
 **[📂 프로젝트 보기](https://github.com/ace062212/Custom-YOLO-based-Person-Detection-System-with-Telegram-Integration.git)**
 
 </td>
-<td width="33%">
+</tr>
+</table>
+
+### 🌟 **2024 Projects - 전문성과 다양성의 확장**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🥈 **소프트웨어 인재육성 캠프 은상**
+**라즈베리파이 졸음 감지 시스템**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi)
+
+*하드웨어와 소프트웨어를 결합한 실용적인 안전 시스템*
+
+**[📂 프로젝트 보기](https://github.com/ace062212/DrowsinessDetection.git)**
+
+</td>
+<td width="50%">
 
 #### 📊 **Korea 2172 Population Analysis**
 **150년 후 대한민국 인구 예측**
@@ -142,11 +142,9 @@
 </tr>
 </table>
 
-### 🎨 **Visualization Projects**
-
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 #### 📈 **Korea Population Visualization**
 **애니메이션으로 보는 인구 변화**
@@ -160,7 +158,7 @@
 **[📂 프로젝트 보기](https://github.com/ace062212/korea-population-visualization.git)**
 
 </td>
-<td width="50%">
+<td width="33%">
 
 #### 🛠️ **Oil Today**
 **실시간 유가 정보 웹서비스**
@@ -172,6 +170,19 @@
 *처음으로 만든 웹사이트 - HTML에 모든걸 담아버린 귀여운 첫 작품*
 
 **[📂 프로젝트 보기](https://github.com/ace062212/Oil-Today.git)**
+
+</td>
+<td width="33%">
+
+#### 🏊‍♂️ **Bigpool Community**
+**수영장 커뮤니티 플랫폼**
+
+![Web Dev](https://img.shields.io/badge/Web%20Dev-4285F4?style=flat-square)
+![Community](https://img.shields.io/badge/Community-FF6B35?style=flat-square)
+
+*커뮤니티 기반 웹 서비스 개발*
+
+**[📂 프로젝트 보기](https://github.com/ace062212/bigpool-community.git)**
 
 </td>
 </tr>
@@ -217,6 +228,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace062212&layout=compact&theme=radical&hide_border=true" width="48%">
 
 </div>
+
+---
+
+## 🎯 2024 학습 및 성취 목표
+
+- 🔥 **딥러닝 전문성 강화** - TensorFlow/PyTorch 마스터
+- 📊 **빅데이터 처리 기술** - Spark, Hadoop 생태계 학습
+- 🚀 **MLOps 파이프라인 구축** - 실무 배포 경험 축적
+- 🏆 **AI 경진대회 입상** - 캐글, 데이콘 등 도전
 
 ---
 
