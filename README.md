@@ -25,4 +25,12 @@
 [ADsP ](https://www.notion.so/ADsP-f92a9a33acf645e5bad2178272056452?pvs=21)
 
 
-https://github.com/ace062212/Oil-Today.git
+
+
+
+
+
+# 2023 MY WORKS & PROJECT
+[지역사회 문제해결형 빅데이터/AI활용 공모전 (2023)](https://github.com/ace062212/Daejeon-Public-Transport-Demand-Prediction.git)
+[실시간 얼굴 인식 기술을 활용한 범죄자 식별 시스템](https://github.com/ace062212/Criminal-Detection-System.git)
+[YOLO와 텔레그램을 활용한 실시간 사람 감지 및 알림 시스템](https://github.com/ace062212/Custom-YOLO-based-Person-Detection-System-with-Telegram-Integration.git)
