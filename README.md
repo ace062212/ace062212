@@ -11,9 +11,9 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-
-<div style="flex: 1; min-width: 45%; border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+<table>
+<tr>
+<td width="50%">
 
 ## 🎯 About Me
 
@@ -23,54 +23,34 @@
 
 **한남대학교 빅데이터응용학과**에서 체계적인 교육을 받으며, **해병대 복무**를 통해 길러진 강인한 정신력으로 도전적인 프로젝트들을 완수해왔습니다.
 
-</div>
-
-<div style="flex: 1; min-width: 45%; border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white;">
+</td>
+<td width="50%">
 
 ## 📚 Education & Military Service
 
 ### 🎓 **학력**
 - **2020.03 - 2026.02** | **한남대학교 빅데이터응용학과** 재학 중
+  - **전공 평균**: 4.34 / 4.5
+  - **전체 평균**: 3.99 / 4.5
+  - **[📄 성적증명서](#)** | **[📋 재학증명서](#)**
 - **2017.03 - 2020.02** | **대산고등학교** 졸업
 
 ### 🪖 **군 복무**
 - **대한민국 해병대** 병장 전역 (병 1264기)
 - *충성! 명예! 승리!*
 
-</div>
+</td>
+</tr>
+</table>
 
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-
-<div style="flex: 1; min-width: 45%; border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white;">
-
-## 🏆 Academic Performance
-
-<div align="center">
-
-| 구분 | 학점 | 
-|------|------|
-| **전공 평균** | **4.34** / 4.5 |
-| **전체 평균** | **3.99** / 4.5 |
-
-</div>
-
-</div>
-
-<div style="flex: 1; min-width: 45%; border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white;">
+---
 
 ## 📜 Certifications
 
 <div align="center">
 
 [![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-국가기술자격-blue?style=for-the-badge&logo=certificate)](https://www.notion.so/25c1b9f8f3ac809daa0ce9589bff3cba?pvs=21)
-
 [![ADsP](https://img.shields.io/badge/ADsP-데이터분석준전문가-green?style=for-the-badge&logo=certificate)](https://www.notion.so/ADsP-f92a9a33acf645e5bad2178272056452?pvs=21)
-
-</div>
-
-</div>
 
 </div>
 
@@ -246,17 +226,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace062212&layout=compact&theme=radical&hide_border=true" width="48%">
 
 </div>
-
----
-
-## 🎯 2025 학습 및 성취 목표
-
-- 🔥 **딥러닝 전문성 강화** - TensorFlow/PyTorch 마스터
-- 📊 **빅데이터 처리 기술** - Spark, Hadoop 생태계 학습
-- 🚀 **MLOps 파이프라인 구축** - 실무 배포 경험 축적
-- 🏆 **AI 경진대회 입상** - 캐글, 데이콘 등 도전
-
----
 
 ## 📞 Contact & Links
 
