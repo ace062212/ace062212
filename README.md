@@ -9,7 +9,7 @@
 
 </div>
 
-
+---
 
 <table>
 <tr>
@@ -23,8 +23,6 @@
 
 **한남대학교 빅데이터응용학과**에서 체계적인 교육을 받으며, **해병대 복무**를 통해 길러진 강인한 정신력으로 도전적인 프로젝트들을 완수해왔습니다.
 
-
-
 </td>
 <td width="50%">
 
@@ -32,57 +30,24 @@
 
 ### 🎓 **학력**
 - **2020.03 - 2026.02** | **한남대학교 빅데이터응용학과** 재학 중
+  - **전공 평균**: 4.34 / 4.5
+  - **전체 평균**: 3.99 / 4.5
+  - **[📄 성적증명서](#)** | **[📋 재학증명서](#)**
 - **2017.03 - 2020.02** | **대산고등학교** 졸업
 
 ### 🪖 **군 복무**
 - **대한민국 해병대** 병장 전역 (병 1264기)
 - *충성! 명예! 승리!*
 
-
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="50%">
-
-## 🏆 Academic Performance
-
-<div align="center">
-
-| 구분 | 학점 | 
-|------|------|
-| **전공 평균** | **4.34** / 4.5 |
-| **전체 평균** | **3.99** / 4.5 |
-
-</div>
-
-
-
-</td>
-<td width="50%">
-
-## 📜 Certifications
-
-<div align="center">
-
+### 📜 **자격증**
 [![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-국가기술자격-blue?style=for-the-badge&logo=certificate)](https://www.notion.so/25c1b9f8f3ac809daa0ce9589bff3cba?pvs=21)
-
 [![ADsP](https://img.shields.io/badge/ADsP-데이터분석준전문가-green?style=for-the-badge&logo=certificate)](https://www.notion.so/ADsP-f92a9a33acf645e5bad2178272056452?pvs=21)
 
-</div>
-
-
-
 </td>
 </tr>
 </table>
 
-
+---
 
 ## 🚀 Projects by Year
 ### 🌟 **2024 Projects - 전문성과 다양성의 확장**
@@ -214,7 +179,7 @@
 </tr>
 </table>
 
-
+---
 
 ## 💻 Tech Stack
 
@@ -244,7 +209,7 @@
 
 </div>
 
-
+---
 
 ## 📈 GitHub Stats
 
@@ -265,7 +230,7 @@
 
 </div>
 
-
+---
 
 <div align="center">
 
