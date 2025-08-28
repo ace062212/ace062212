@@ -56,14 +56,14 @@
 
 ---
 
-## 🚀 Projects by Year
-### 🌟 **2024 Projects - 전문성과 다양성의 확장**
+# 🚀 Projects by Year
+## 🌟 **2024 Projects - 전문성과 다양성의 확장**
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🥈 **소프트웨어 인재육성 캠프 은상**
+### 🥈 **소프트웨어 인재육성 캠프 은상**
 **라즈베리파이 졸음 감지 시스템**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -77,7 +77,7 @@
 </td>
 <td width="50%">
 
-#### 📊 **Korea 2172 Population Analysis**
+### 📊 **Korea 2172 Population Analysis**
 **150년 후 대한민국 인구 예측**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
@@ -96,7 +96,7 @@
 <tr>
 <td width="33%">
 
-#### 📈 **Korea Population Visualization**
+### 📈 **Korea Population Visualization**
 **애니메이션으로 보는 인구 변화**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
@@ -110,7 +110,7 @@
 </td>
 <td width="33%">
 
-#### 🛠️ **Oil Today**
+### 🛠️ **Oil Today**
 **실시간 유가 정보 웹서비스**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
@@ -124,7 +124,7 @@
 </td>
 <td width="33%">
 
-#### 🏊‍♂️ **Bigpool Community**
+### 🏊‍♂️ **Bigpool Community**
 **커뮤니티 플랫폼**
 
 ![Web Dev](https://img.shields.io/badge/Web%20Dev-4285F4?style=flat-square)
@@ -138,13 +138,13 @@
 </tr>
 </table>
 
-### 🏆 **2023 Projects - AI & 머신러닝 도전의 시작**
+## 🏆 **2023 Projects - AI & 머신러닝 도전의 시작**
 
 <table>
 <tr>
 <td width="33%">
 
-#### 🥉 **지역사회 문제해결 공모전 동상**
+### 🥉 **지역사회 문제해결 공모전 동상**
 **대전 시내버스 수요 예측 시스템**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -158,7 +158,7 @@
 </td>
 <td width="33%">
 
-#### 🔍 **Criminal Detection System**
+### 🔍 **Criminal Detection System**
 **실시간 범죄자 식별 시스템**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
@@ -171,7 +171,7 @@
 </td>
 <td width="33%">
 
-#### 🎯 **YOLO Person Detection**
+### 🎯 **YOLO Person Detection**
 **실시간 사람 감지 알림 시스템**
 
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
