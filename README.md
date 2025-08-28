@@ -23,6 +23,8 @@
 
 **한남대학교 빅데이터응용학과**에서 체계적인 교육을 받으며, **해병대 복무**를 통해 길러진 강인한 정신력으로 도전적인 프로젝트들을 완수해왔습니다.
 
+---
+
 </td>
 <td width="50%">
 
@@ -35,6 +37,8 @@
 ### 🪖 **군 복무**
 - **대한민국 해병대** 병장 전역 (병 1264기)
 - *충성! 명예! 승리!*
+
+---
 
 </td>
 </tr>
@@ -57,6 +61,8 @@
 
 </div>
 
+---
+
 </td>
 <td width="50%">
 
@@ -70,10 +76,11 @@
 
 </div>
 
+---
+
 </td>
 </tr>
 </table>
-
 
 ---
 
@@ -146,12 +153,12 @@
 <td width="33%">
 
 #### 🏊‍♂️ **Bigpool Community**
-**커뮤니티 플랫폼**
+**수영장 커뮤니티 플랫폼**
 
 ![Web Dev](https://img.shields.io/badge/Web%20Dev-4285F4?style=flat-square)
 ![Community](https://img.shields.io/badge/Community-FF6B35?style=flat-square)
 
-*처음 만들어본 스프링부트 기반 커뮤니티 웹 서비스*
+*커뮤니티 기반 웹 서비스 개발*
 
 **[📂 프로젝트 보기](https://github.com/ace062212/bigpool-community.git)**
 
