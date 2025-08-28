@@ -126,12 +126,12 @@
 <td width="33%">
 
 #### 🏊‍♂️ **Bigpool Community**
-**수영장 커뮤니티 플랫폼**
+**커뮤니티 플랫폼**
 
 ![Web Dev](https://img.shields.io/badge/Web%20Dev-4285F4?style=flat-square)
 ![Community](https://img.shields.io/badge/Community-FF6B35?style=flat-square)
 
-*커뮤니티 기반 웹 서비스 개발*
+*처음 만들어본 스프링부트 기반 커뮤니티 웹 서비스*
 
 **[📂 프로젝트 보기](https://github.com/ace062212/bigpool-community.git)**
 
