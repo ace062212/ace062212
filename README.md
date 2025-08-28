@@ -58,55 +58,6 @@
 ---
 
 ## 🚀 Projects by Year
-
-### 🏆 **2023 Projects - AI & 머신러닝 도전의 시작**
-
-<table>
-<tr>
-<td width="33%">
-
-#### 🥉 **지역사회 문제해결 공모전 동상**
-**대전 시내버스 수요 예측 시스템**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AutoGluon](https://img.shields.io/badge/AutoGluon-FF6B35?style=flat-square)
-![Team Project](https://img.shields.io/badge/Team-4명-orange?style=flat-square)
-
-*첫 팀 프로젝트로 공공데이터를 활용한 머신러닝 예측 시스템 구축*
-
-**[📂 프로젝트 보기](https://github.com/ace062212/Daejeon-Public-Transport-Demand-Prediction.git)**
-
-</td>
-<td width="33%">
-
-#### 🔍 **Criminal Detection System**
-**실시간 범죄자 식별 시스템**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![Face Recognition](https://img.shields.io/badge/Face%20Recognition-FF6B6B?style=flat-square)
-
-*복학 후 처음으로 정말 재미있게 만든 컴퓨터 비전 프로젝트*
-
-**[📂 프로젝트 보기](https://github.com/ace062212/Criminal-Detection-System.git)**
-
-</td>
-<td width="33%">
-
-#### 🎯 **YOLO Person Detection**
-**실시간 사람 감지 알림 시스템**
-
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram)
-![Roboflow](https://img.shields.io/badge/Roboflow-6B46C1?style=flat-square)
-
-*Demo가 아닌 Product를 지향하는 실용적인 AI 시스템*
-
-**[📂 프로젝트 보기](https://github.com/ace062212/Custom-YOLO-based-Person-Detection-System-with-Telegram-Integration.git)**
-
-</td>
-</tr>
-</table>
-
 ### 🌟 **2024 Projects - 전문성과 다양성의 확장**
 
 <table>
@@ -188,6 +139,54 @@
 </tr>
 </table>
 
+### 🏆 **2023 Projects - AI & 머신러닝 도전의 시작**
+
+<table>
+<tr>
+<td width="33%">
+
+#### 🥉 **지역사회 문제해결 공모전 동상**
+**대전 시내버스 수요 예측 시스템**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AutoGluon](https://img.shields.io/badge/AutoGluon-FF6B35?style=flat-square)
+![Team Project](https://img.shields.io/badge/Team-4명-orange?style=flat-square)
+
+*첫 팀 프로젝트로 공공데이터를 활용한 머신러닝 예측 시스템 구축*
+
+**[📂 프로젝트 보기](https://github.com/ace062212/Daejeon-Public-Transport-Demand-Prediction.git)**
+
+</td>
+<td width="33%">
+
+#### 🔍 **Criminal Detection System**
+**실시간 범죄자 식별 시스템**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![Face Recognition](https://img.shields.io/badge/Face%20Recognition-FF6B6B?style=flat-square)
+
+*복학 후 처음으로 정말 재미있게 만든 컴퓨터 비전 프로젝트*
+
+**[📂 프로젝트 보기](https://github.com/ace062212/Criminal-Detection-System.git)**
+
+</td>
+<td width="33%">
+
+#### 🎯 **YOLO Person Detection**
+**실시간 사람 감지 알림 시스템**
+
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram)
+![Roboflow](https://img.shields.io/badge/Roboflow-6B46C1?style=flat-square)
+
+*Demo가 아닌 Product를 지향하는 실용적인 AI 시스템*
+
+**[📂 프로젝트 보기](https://github.com/ace062212/Custom-YOLO-based-Person-Detection-System-with-Telegram-Integration.git)**
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 💻 Tech Stack
@@ -228,17 +227,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace062212&layout=compact&theme=radical&hide_border=true" width="48%">
 
 </div>
-
----
-
-## 🎯 2024 학습 및 성취 목표
-
-- 🔥 **딥러닝 전문성 강화** - TensorFlow/PyTorch 마스터
-- 📊 **빅데이터 처리 기술** - Spark, Hadoop 생태계 학습
-- 🚀 **MLOps 파이프라인 구축** - 실무 배포 경험 축적
-- 🏆 **AI 경진대회 입상** - 캐글, 데이콘 등 도전
-
----
 
 ## 📞 Contact & Links
 
