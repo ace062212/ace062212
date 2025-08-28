@@ -11,6 +11,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🎯 About Me
 
 > *"데이터 속에서 미래를 찾고, AI로 세상을 바꾸는 개발자"*
@@ -19,7 +23,8 @@
 
 **한남대학교 빅데이터응용학과**에서 체계적인 교육을 받으며, **해병대 복무**를 통해 길러진 강인한 정신력으로 도전적인 프로젝트들을 완수해왔습니다.
 
----
+</td>
+<td width="50%">
 
 ## 📚 Education & Military Service
 
@@ -31,7 +36,15 @@
 - **대한민국 해병대** 병장 전역 (병 1264기)
 - *충성! 명예! 승리!*
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🏆 Academic Performance
 
@@ -44,16 +57,23 @@
 
 </div>
 
----
+</td>
+<td width="50%">
 
 ## 📜 Certifications
 
 <div align="center">
 
 [![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-국가기술자격-blue?style=for-the-badge&logo=certificate)](https://www.notion.so/25c1b9f8f3ac809daa0ce9589bff3cba?pvs=21)
+
 [![ADsP](https://img.shields.io/badge/ADsP-데이터분석준전문가-green?style=for-the-badge&logo=certificate)](https://www.notion.so/ADsP-f92a9a33acf645e5bad2178272056452?pvs=21)
 
 </div>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
