@@ -54,7 +54,7 @@
 
 ---
 
-# 🚀 Projects by Year
+# Projects by Year
   ## 🚀 **2025 Projects - AI와 실무의 만남**
 
   <table>
