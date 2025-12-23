@@ -55,6 +55,44 @@
 ---
 
 # 🚀 Projects by Year
+  ## 🚀 **2025 Projects - AI와 실무의 만남**
+
+  <table>
+  <tr>
+  <td width="50%">
+
+  ### 🤖 **세림 TSG 규정 도우미**
+  **RAG 기반 회사 규정 질의응답 챗봇**
+
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square)
+  ![RAG](https://img.shields.io/badge/RAG-4285F4?style=flat-square)
+
+  *하이브리드 검색과 Llama 3.3 70B로 구현한 차세대 규정 검색 시스템*
+
+  **핵심 기술:**
+  - 벡터 + BM25 하이브리드 검색
+  - 한국어 최적화 토크나이저
+  - Perplexity 스타일 실시간 UI
+  - FAISS 벡터 DB + LlamaIndex
+
+  **[📂 프로젝트 보기](https://github.com/ace062212/selim_chat.git)**
+
+  </td>
+  <td width="50%">
+
+  ### 📝 **Coming Soon...**
+  **2025년 새로운 프로젝트를 준비중입니다**
+
+  ![Innovation](https://img.shields.io/badge/Innovation-Coming%20Soon-lightgrey?style=flat-square)
+
+  *더 나은 프로젝트로 찾아뵙겠습니다*
+
+  </td>
+  </tr>
+  </table>
+
 ## 🌟 **2024 Projects - 전문성과 다양성의 확장**
 
 <table>
