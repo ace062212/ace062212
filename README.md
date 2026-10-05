@@ -23,16 +23,16 @@
 질문 + 대화맥락
    └→ ① 라우팅      Rule → 규칙 교차검증(margin) → 검색기반 top-1 → LLM 폴백
                      + 마진 게이트 · 세션 고착 · 비활성 도메인 차단
-   └→ ② 질문 정규화  sLLM 11.5B — 오타 교정 + 생략된 문맥 복원
-   └→ ③ 하이브리드 검색  Elasticsearch 8.12 (nori) — KNN + BM25, RRF k=60
+   └→ ② 질문 정규화  sLLM — 오타 교정 + 생략된 문맥 복원
+   └→ ③ 하이브리드 검색  Elasticsearch 8.x (nori) — KNN + BM25, RRF k=60
    └→ ④ 리랭킹      BGE-Reranker-M3 → 상위 N건
    └→ ⑤ 프롬프트 조립  도메인별 시스템 프롬프트 + 페르소나 고정
-   └→ ⑥ 생성        LLM 32B, SSE 스트리밍
+   └→ ⑥ 생성        LLM, SSE 스트리밍
 ```
 
 **맡은 것**
 - 라우팅 오분류 · 리랭커 컷오프 · 프롬프트 회귀를 지표로 잡고 반복 개선
-- eGovFrame 3.9 (Spring 4.3) 레거시 포털에 SSE 스트리밍 챗 인터페이스 이식
+- eGovFrame 기반 레거시 포털에 SSE 스트리밍 챗 인터페이스 이식
 - 지식베이스 관리도구 (Spring Boot + React/Vite 모노레포) 설계 및 배포
 - Jenkins CI/CD — 빌드·원격 배포·운영 검증 루프
 
@@ -84,7 +84,6 @@
 
 | | |
 |---|---|
-| [**selim_chat**](https://github.com/ace062212/selim_chat) | 사내 규정 RAG 챗봇 · 하이브리드 검색 + FAISS · Next.js |
 | [**DrowsinessDetection**](https://github.com/ace062212/DrowsinessDetection) | 라즈베리파이 졸음운전 감지 · OpenCV · *SW인재육성캠프 은상* |
 | [**Daejeon-Transport-Demand**](https://github.com/ace062212/Daejeon-Public-Transport-Demand-Prediction) | 대전 대중교통 수요 예측 · AutoGluon |
 | [**Korea2172**](https://github.com/ace062212/Korea2172) | 인구 통계 150년 예측 · R · ARIMA |
